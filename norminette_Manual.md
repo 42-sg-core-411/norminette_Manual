@@ -1,7 +1,3 @@
-Legend:
-<Error Name>
-<Solution>
-
 1) Mixed Spaces & Tabs:
    Check for a space in between your datatype and variable name.  
 2) Space on Empty Line:
